@@ -12,6 +12,7 @@ For the first challenge we had to look at exsisting code and optimize it for the
 - Added a Git Ignore
 - Added a img folder for the screenshot
 - Refractored the CSS to remove code duplication
+- Added a div to the image and set the width and height, moved the image out of the main section
 
 ## Site link
 
