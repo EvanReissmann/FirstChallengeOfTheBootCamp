@@ -18,4 +18,4 @@ For the first challenge we had to look at exsisting code and optimize it for the
 
 URL: https://EvanReissmann.github.io/FirstChallengeOfTheBootCamp
 
-![Home Page](https://github.com/EvanReissmann/FirstChallengeOfTheBootCamp/raw/main/img/HomePage.png)
+![Home Page](https://github.com/EvanReissmann/FirstChallengeOfTheBootCamp/raw/main/img/HomePage.gif)
